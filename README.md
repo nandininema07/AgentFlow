@@ -8,6 +8,10 @@
 
 **Always-On Autonomous Agents** - Your agents work 24/7 without any supervision, completing tasks continuously while you sleep
 
+**Intelligent Chatbot Interface** - Ask about your agents' actions and performance in natural language - get instant insights and updates
+
+**Voice Call Updates** - Receive real-time updates about your agents' activities through automated phone calls
+
 **Agent Marketplace** - Discover and use agent templates created by the community, or keep your premium agents private
 
 ## Overview
@@ -29,7 +33,8 @@ Check out the [Demo Video](https://youtu.be/9vzwt6VrFLQ?si=Ci23DGt1QJOtiMPf) to 
 ### Frontend (Next.js)
 - **Framework**: Next.js 14 with TypeScript
 - **UI Library**: Radix UI components with Tailwind CSS
-- **Features**: Modern dashboard interface, form handling, real-time updates
+- **Workflow Visualization**: React Flow for interactive agent workflow management
+- **Features**: Modern dashboard interface, form handling, real-time updates, chatbot integration
 
 ## 🛠️ Tech Stack
 
@@ -43,6 +48,7 @@ Check out the [Demo Video](https://youtu.be/9vzwt6VrFLQ?si=Ci23DGt1QJOtiMPf) to 
 ### Frontend
 - **Next.js 14** with TypeScript
 - **React** with modern hooks
+- **React Flow** for visual workflow and agent management
 - **Radix UI** component library
 - **Tailwind CSS** for styling
 - **React Hook Form** for form management
@@ -65,6 +71,12 @@ Check out the [Demo Video](https://youtu.be/9vzwt6VrFLQ?si=Ci23DGt1QJOtiMPf) to 
 - **Self-Managing** - No supervision or intervention required
 - **Continuous Learning** - Agents improve performance over time
 - **Real-time Adaptation** - Automatically adjust to changing conditions
+
+### Communication & Monitoring
+- **Natural Language Chatbot** - Ask questions about your agents' performance and get instant answers
+- **Voice Call Updates** - Receive automated phone calls with agent status updates
+- **Real-time Dashboard** - Visual workflow management with React Flow
+- **Intelligent Insights** - Get actionable insights about your agents' activities
 
 ### Marketplace & Business Model
 - **Free Tier** - Access community agent templates in the marketplace
@@ -187,6 +199,8 @@ Once the backend is running, visit `http://localhost:8000/docs` for interactive 
 - `/files` - File upload and management
 - `/generate` - Content generation
 
----
+## Contributors
 
-**Built with ❤️ for the D2K Gradient Flow Hackathon**
+- [Sujal Choudhari](https://github.com/SujalChoudhari)
+- [Nandini Nema](https://github.com/nandininema07)
+- [Pranay Khandagle](https://github.com/Pranay13257)
